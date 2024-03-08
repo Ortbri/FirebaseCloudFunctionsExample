@@ -1,1 +1,1 @@
-# FirebaseCloudFunctionsExample
+# FirebaseFunctionsExample
